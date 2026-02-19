@@ -1,7 +1,7 @@
 # Lab 01 – Cybersecurity Risk Register
 **Created by:** Shantall Taylor  
 **GitHub:** TaylorSecure  
-**Date:** <2/18/26>
+**Date:** 2/18/26
 
 ---
 
